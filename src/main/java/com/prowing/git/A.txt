@@ -1,1 +1,2 @@
-Hey java Developer.. addition functionality added...Welcome to Git Branching practice
+
+Hey java Developer.. i am developer1 & developer2 added  addtion $substraction functionality.. Welcome to Git Branching practice
